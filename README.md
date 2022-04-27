@@ -3,8 +3,6 @@
 ## Hi there, my name is HyeRyeong 😊
  
 [![HyeRyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryeong904&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=fud3725)](https://solved.ac/fud3725)
   
 ## SKILLS ✍
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
