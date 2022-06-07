@@ -9,7 +9,7 @@
 ## Stacks 🔨
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,jquery)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=py,nodejs,express,php,fastapi)](https://skillicons.dev)
