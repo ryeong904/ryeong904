@@ -1,10 +1,12 @@
-
-<div align="center">
  
 ## Hi there 👋
+
+<!-- <p>
+Hi, I'm HyeRyeong Kim.<br>
+I want to be a web developer.
+</p> -->
  
-[![HyeRyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryeong904&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryeong904&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryeong904&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
  
 ## Stacks 🔨
 
@@ -24,4 +26,4 @@
 ### Version Control
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
 
-</div>
+ -->
