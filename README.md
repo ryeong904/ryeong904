@@ -23,6 +23,9 @@
 ![HyeRyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryeong904&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryeong904&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📝 If you contact me
+## 📝 If you want to contact me
 <a href="mailto:ryeong3725@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://velog.io/@fud904"><img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+
+## 🎶 Visit my portfolio
+https://portfolio-ryeong904.vercel.app/
