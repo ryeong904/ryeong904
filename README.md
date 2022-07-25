@@ -1,8 +1,8 @@
  
 ## Hi there 👋 I'm HyeRyeong
 
-💡 &nbsp; I'm interested in full stack. Recent focus on backend.<br>
-💻&nbsp; I'm currently learning React.js and Node.js.
+ &nbsp;💡&nbsp;I'm a web backend developer.<br>
+😄&nbsp;I usually programming with Node.js<br>
 
 ## ⛏ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
