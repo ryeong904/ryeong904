@@ -5,6 +5,7 @@
 😄&nbsp;I usually programming with Node.js<br>
 
 ## ⛏ Tech Stack
+![TavaScript](https://img.shields.io/badge/-TavaScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=EclipseIDE&logoColor=FFA518)&nbsp;
@@ -14,9 +15,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=FastAPI)&nbsp;\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;\
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=FastAPI)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android)&nbsp;
 
 ## 👀 Github Stats
