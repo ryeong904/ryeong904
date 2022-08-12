@@ -30,6 +30,3 @@
 ## 📝 If you want to contact me
 <a href="mailto:ryeong3725@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://velog.io/@fud904"><img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-
-## 🎶 Visit my portfolio
-https://portfolio-ryeong904.vercel.app/
